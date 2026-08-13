@@ -35,3 +35,27 @@ Source-Age: 0
 [2026-08-12 16:02:48,940: INFO: main: >>>>> stage Data Ingestion stage completed <<<<<
 
 x=================x]
+[2026-08-13 11:35:17,750: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-08-13 11:35:17,752: INFO: common: yaml file: param.yaml loaded successfully]
+[2026-08-13 11:35:17,753: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-08-13 11:35:17,755: INFO: common: created directory at: artifacts]
+[2026-08-13 11:35:17,756: INFO: common: created directory at: artifacts/data_validation]
+[2026-08-13 11:52:14,868: INFO: main: >>>>>stage Data Ingestion stage started <<<<<<]
+[2026-08-13 11:52:14,868: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-08-13 11:52:14,869: INFO: common: yaml file: param.yaml loaded successfully]
+[2026-08-13 11:52:14,869: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-08-13 11:52:14,869: INFO: common: created directory at: artifacts]
+[2026-08-13 11:52:14,869: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-08-13 11:52:14,869: INFO: data_ingestion: File already exists]
+[2026-08-13 11:52:14,870: INFO: main: >>>>> stage Data Ingestion stage completed <<<<<
+
+]
+[2026-08-13 11:52:14,870: INFO: main: >>>>>>>> stage Data validation stage started <<<<<<]
+[2026-08-13 11:52:14,871: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-08-13 11:52:14,871: INFO: common: yaml file: param.yaml loaded successfully]
+[2026-08-13 11:52:14,871: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-08-13 11:52:14,872: INFO: common: created directory at: artifacts]
+[2026-08-13 11:52:14,872: INFO: common: created directory at: artifacts/data_validation]
+[2026-08-13 11:52:14,874: INFO: main: >>>>>> stage Data validation stage completed <<<<<<<<
+
+]
